@@ -1,4 +1,4 @@
-![poster](cv_final_poster.png)
+![poster](CV_final_poster.png)
 
 # A Tale of Three Summarizers: Investigating Unimodal Text, Vision and Multimodal Combinations for Medical Summarization
 ## Method 1: Image captioning on the xray images
